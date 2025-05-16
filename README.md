@@ -9,7 +9,6 @@
 I'm a passionate and Tech enthusiast currently, aiming to build a career in:
 
 - 📈 Data Science & Analytics  
-- 🔐 Cybersecurity  
 - 🌐 Web Development  
 
 I'm driven by curiosity, love to solve real-world problems, and enjoy learning new technologies that make systems smarter and safer.
