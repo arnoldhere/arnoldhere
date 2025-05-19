@@ -1,7 +1,5 @@
 # 👋 Hi there, I'm Arnold Macwan!
-
-🎓 MSc IT | 📊 Aspiring Data Scientist | 🛡️ Cybersecurity Enthusiast | 💻 Full-stack Developer (MEAN Stack)
-
+🎯 MSc IT | Python, SQL, MERN/MEAN Developer | Refining skills in Data Science & Machine Learning | Looking forward for Data Science opportunity
 ---
 
 ## 🧑‍💻 About Me
