@@ -34,7 +34,7 @@ I'm driven by curiosity, love to solve real-world problems, and enjoy learning n
 
 - 🔗 LinkedIn: [linkedin.com/in/arnold-macwan-64005a222](https://www.linkedin.com/in/arnold-macwan-64005a222)  
 - 📧 Email: official.arnold.mac.2004@gmail.com
-- 🌐 Portfolio: Coming Soon...
+- 🌐 Portfolio: [https://arnxold-portfolio.netlify.app/]
 
 ---
 
