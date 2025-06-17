@@ -15,11 +15,11 @@ I'm driven by curiosity, love to solve real-world problems, and enjoy learning n
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: Python, JavaScript, TypeScript, Bash, SQL  
-- 🌐 Web: Angular, Node.js, Express.js, MongoDB, HTML, CSS  
+- 💻 Languages: Python, JavaScript, TypeScript, SQL, C and C++, PHP
+- 🌐 Technologies: Angular, Node.js, Express.js, MongoDB, React.js, ASP.NET MVC, Django  
 - 📊 Data: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Power BI  
-- 🔒 Security: OWASP Top 10, SSRF, WAF Bypass, Metadata Exploits, Burp Suite, DVWA  
-- 🔧 Tools: Git, GitHub, Postman, Jupyter Notebooks, Linux Terminal  
+- 🔒 Security: OWASP Top 10, SSRF, WAF Bypass, Metadata Exploits, Burp Suite
+- 🔧 Tools: Git, GitHub, Postman, Jupyter Notebooks, Linux Terminal
 
 ---
 
