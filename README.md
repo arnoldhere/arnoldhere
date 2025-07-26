@@ -27,7 +27,7 @@ I'm driven by curiosity, love to solve real-world problems, and enjoy learning n
 
 ![Arnold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldhere&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldhere&layout=compact&theme=tokyonight&exclude_repo=laravelApp_rentalportal,amyevents)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldhere&layout=compact&theme=tokyonight&exclude_repo=laravelApp_rentalportal,amyevents,healthHub)
 
 ---
 
