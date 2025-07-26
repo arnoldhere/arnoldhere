@@ -26,11 +26,8 @@ I'm driven by curiosity, love to solve real-world problems, and enjoy learning n
 ## 📊 GitHub Stats
 
 ![Arnold's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldhere&show_icons=true&theme=tokyonight)  
-const languageData = "https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldhere&layout=compact&theme=tokyonight"
-const filteredLanguages = Object.entries(languageData)
-  .filter(([lang]) => !["CSS", "SCSS"].includes(lang))
 
-![Top Languages](filteredLanguages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldhere&layout=compact&theme=tokyonight&exclude_repo=laravelApp_rentalportal,amyevents)
 
 ---
 
