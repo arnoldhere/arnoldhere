@@ -19,7 +19,7 @@ Currently working as an **AI/ML + Full Stack Developer**, continuously refining 
 
 ---
 
-#�� Tech Stack
+# Tech Stack
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,8 +65,11 @@ Currently working as an **AI/ML + Full Stack Developer**, continuously refining 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnoldhere&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldhere&layout=compact&theme=tokyonight&exclude_repo=laravelApp_rentalportal,amyevents,healthHub" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arnoldhere&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldhere&layout=compact&theme=tokyonight" />
 </p>
 
 ---
