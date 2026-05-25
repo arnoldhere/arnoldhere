@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Arnold Macwan
 
-### 🚀 AI/ML Trainee Developer | MSc IT | Full-Stack Developer | Aspiring Data Scientist
+### 🚀 AI/ML Developer | Full-Stack Developer | Aspiring Data Scientist
 
 Passionate about building intelligent systems, solving real-world problems, and exploring modern technologies across **Data Science, Machine Learning, Web Development, and Cybersecurity**.
 
-Currently working as an **AI/ML Trainee Developer @ Hyperlink InfoSystem**, continuously refining my skills in scalable application development, data analytics, and intelligent automation.
+Currently working as an **AI/ML + Full Stack Developer**, continuously refining my skills in scalable application development, data analytics, and intelligent automation.
 
 ---
 
@@ -28,7 +28,6 @@ Currently working as an **AI/ML Trainee Developer @ Hyperlink InfoSystem**, cont
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
@@ -37,6 +36,7 @@ Currently working as an **AI/ML Trainee Developer @ Hyperlink InfoSystem**, cont
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fast API ](https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastapi&logoColor=61ACFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -49,6 +49,7 @@ Currently working as an **AI/ML Trainee Developer @ Hyperlink InfoSystem**, cont
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-F2C811?style=for-the-badge&logo=Tensorflow&logoColor=black)
 
 ---
 
@@ -99,7 +100,7 @@ Currently working as an **AI/ML Trainee Developer @ Hyperlink InfoSystem**, cont
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://arnold-macwan.onrender.com/" target="_blank">
+  <a href="https://arnoldmacwan.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
