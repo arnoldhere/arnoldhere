@@ -163,7 +163,7 @@ I enjoy exploring new technologies, conducting research, building practical proj
 
 # 💭 Quote
 
-> **"Technology creates impact when curiosity meets consistency, continuous learning, and purposeful innovation."**
+> **"Hardest choices requires the strongest will."**
 
 ---
 
